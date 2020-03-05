@@ -1,0 +1,27 @@
+body {
+    margin: auto;
+    margin: 100px 300px;
+    text-align: center;
+    background-color: #fa4659;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main {
+    border: solid #2eb972 50px;
+    background-color: #e4f3c9;
+    color: #195f3b;
+
+}
+
+button {
+
+    color: #195f3b;
+    background-color: #a3de83;
+    border: solid #195f3b 1px;
+}
+
+input {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #195f3b;
+    background-color: #c8e7b8;
+}
